@@ -12,6 +12,7 @@
 #include "../include/moviedatabasemenu.h"
 
 int main() {
+  cout<<"Updated Code\n";
   MovieDB::MovieDBMenu movieDB;
   movieDB.performMovieDBOperations();
   return 0;
